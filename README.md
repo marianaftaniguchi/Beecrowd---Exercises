@@ -11,6 +11,9 @@
 </tr>
 </thead>
 <tbody>
+<tr><td>1</td><td><a href='https://resources.beecrowd.com/repository/UOJ_1065_en.html'>Pares entre cinco números
+</a></td><td><a href='src/1065'>1065</a></td></tr>
+  
 <tr><td>2</td><td><a href='https://resources.beecrowd.com/repository/UOJ_1008_en.html'>Salário
 </a></td><td><a href='src/1008'>1008</a></td></tr>
 
