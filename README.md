@@ -20,6 +20,9 @@
 <tr><td>3</td><td><a href='https://resources.beecrowd.com/repository/UOJ_1010_en.html'>Cálculo Simples
 </a></td><td><a href='src/1010'>1010</a></td></tr>
 
+<tr><td>4</td><td><a href='https://resources.beecrowd.com/repository/UOJ_1018_en.html'>Tipos de Triângulo
+</a></td><td><a href='src/1018'>1018</a></td></tr>
+
 <tr><td>4</td><td><a href='https://resources.beecrowd.com/repository/UOJ_1045_en.html'>Tipos de Triângulo
 </a></td><td><a href='src/1045'>1045</a></td></tr>
 
