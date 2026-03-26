@@ -1,6 +1,6 @@
 # Beecrowd 
 
-## Beginner
+## Python | Beginner
 
 <table>
 <thead>
