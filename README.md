@@ -31,3 +31,21 @@
 
 </tbody>
 </table>
+
+## SQL | Beginner
+
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Problems</th>
+<th>Solutions</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>4</td><td><a href='https://resources.beecrowd.com/repository/UOJ_2602_en.html'>Selec Básico
+</a></td><td><a href='src/2602'>2602</a></td></tr>
+
+</tbody>
+</table>
+
